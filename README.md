@@ -1,5 +1,5 @@
 # FILE_SYSTEM
-    + this is a small project make for educational purposes
+    + this is a small project made for educational purposes
     + you're free to take the source code and do whatever you want
 
 # DATA STRUCTURE
